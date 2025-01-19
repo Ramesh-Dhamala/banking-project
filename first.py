@@ -47,7 +47,7 @@ while True:
         break
     else:
         print("Your choice is not valid.")
-         print("Your choice is not valid.")
+        
         
         
 
